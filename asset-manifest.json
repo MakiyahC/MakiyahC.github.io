@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/makiyahc.github.io/static/css/main.4249fb2b.chunk.css",
+    "main.js": "/makiyahc.github.io/static/js/main.96bec7bb.chunk.js",
+    "main.js.map": "/makiyahc.github.io/static/js/main.96bec7bb.chunk.js.map",
+    "runtime-main.js": "/makiyahc.github.io/static/js/runtime-main.908a00eb.js",
+    "runtime-main.js.map": "/makiyahc.github.io/static/js/runtime-main.908a00eb.js.map",
+    "static/css/2.30e8549e.chunk.css": "/makiyahc.github.io/static/css/2.30e8549e.chunk.css",
+    "static/js/2.1c0f8641.chunk.js": "/makiyahc.github.io/static/js/2.1c0f8641.chunk.js",
+    "static/js/2.1c0f8641.chunk.js.map": "/makiyahc.github.io/static/js/2.1c0f8641.chunk.js.map",
+    "index.html": "/makiyahc.github.io/index.html",
+    "precache-manifest.c9dd03944fc5ff7ea0e315771daf2ed2.js": "/makiyahc.github.io/precache-manifest.c9dd03944fc5ff7ea0e315771daf2ed2.js",
+    "service-worker.js": "/makiyahc.github.io/service-worker.js",
+    "static/css/2.30e8549e.chunk.css.map": "/makiyahc.github.io/static/css/2.30e8549e.chunk.css.map",
+    "static/css/main.4249fb2b.chunk.css.map": "/makiyahc.github.io/static/css/main.4249fb2b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.908a00eb.js",
+    "static/css/2.30e8549e.chunk.css",
+    "static/js/2.1c0f8641.chunk.js",
+    "static/css/main.4249fb2b.chunk.css",
+    "static/js/main.96bec7bb.chunk.js"
+  ]
+}
